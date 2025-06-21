@@ -1,0 +1,1 @@
+chrome.exe --remote-debugging-port-8989 --user-data-dir="D:\Programming\Projects\SIH\Social_media_scraper\chromedata\chromeprofile"
